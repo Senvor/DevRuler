@@ -30,7 +30,7 @@ I wanted to actually build it, so I started looking for good hardware programs. 
 I designed the entire board from scratch using **KiCad**. 
 
 <div align="center">
-  <img src="PCB.png" alt="PCB Design in KiCad" width="700" />
+  <img src="assests/PCB.png" alt="PCB Design in KiCad" width="700" />
   <br/>
   <i>A look at the raw KiCad layout.</i>
 </div>
@@ -40,5 +40,7 @@ I designed the entire board from scratch using **KiCad**.
 Here's the final manufacturing quote and preview from JLCPCB before it becomes reality:
 
 <div align="center">
-  <img src="JLCPCB.png" alt="JLCPCB Quote and Render" width="700" />
+  <img src="assests/JLCPCB.png" alt="JLCPCB Quote and Render" width="700" />
 </div>
+
+---

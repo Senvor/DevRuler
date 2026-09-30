@@ -43,4 +43,12 @@ Here's the final manufacturing quote and preview from JLCPCB before it becomes r
   <img src="assests/JLCPCB.png" alt="JLCPCB Quote and Render" width="700" />
 </div>
 
+# Bill Of Materials
+
+| Category | Item Name | Description | Delivery(estimated) | Vendor | Quantity | Total Price (USD) |
+|---|---|---|---|---|---:|---:|
+| PCB | DevRuler | The coolest Ruler OAT | 9.34$ | JLCPCB | 5 | 28.34$ |
+<img width="1275" height="571" alt="image" src="https://github.com/user-attachments/assets/8a448917-cd71-45b3-ac50-17768dd789c3" />
+
+
 ---

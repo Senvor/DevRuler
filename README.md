@@ -12,16 +12,16 @@
 
 ## What exactly is it?
 
-It's a practical, everyday ruler designed specifically for developers and hardware hackers. I packed it with handy references that actually help in daily life, including:
+It's a everyday use ruler designed specifically for developers. I packed it with some cool stuff:
 
-- **Hardware footprints** for quick sizing and reference.
-- **Daily use commands** right at a glance.
+- **Hardware footprints** for quick sizing and idk, all the footprints are random.
+- **Daily use commands** if u forget it.
 - **Basic SI unit conversions** so you never have to Google them again.
 - Sweet branding from [Hack Club](https://hackclub.com/) and their awesome hardware program, [Forge](https://forge.hackclub.com/)!
 
 ## Why I built it
 
-One day, while exploring the depths of YouTube, I stumbled upon a video showcasing a ruler made entirely out of a PCB. I immediately thought: *"What if I made one for myself? That would be **so** cool."* 
+One day, while exploring the yonders of YouTube, I stumbled upon a video showcasing a ruler made entirely out of a PCB. I immediately thought: *"What if I made one for myself? That would be **so** cool."*
 
 I wanted to actually build it, so I started looking for good hardware programs. That's when I found **Forge** an incredibly cool, hardware-focused program by Hack Club, I jumped right in and started designing!
 

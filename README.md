@@ -15,15 +15,15 @@
 It's a everyday use ruler designed specifically for developers. I packed it with some cool stuff:
 
 - **Hardware footprints** for quick sizing and idk, all the footprints are random.
-- **Daily use commands** if u forget it.
+- **Daily use commands** for the moments when your brain completely blanks on basic commands.
 - **Basic SI unit conversions** so you never have to Google them again.
 - Sweet branding from [Hack Club](https://hackclub.com/) and their awesome hardware program, [Forge](https://forge.hackclub.com/)!
 
 ## Why I built it
 
-One day, while exploring the yonders of YouTube, I stumbled upon a video showcasing a ruler made entirely out of a PCB. I immediately thought: *"What if I made one for myself? That would be **so** cool."*
+I have always loved watching hardware videos on youtube, and one day I found a video showcasing a PCB Ruler. I was instantly obsessed with the idea and decided to make my own custom PCB Ruler.
 
-I wanted to actually build it, so I started looking for good hardware programs. That's when I found **Forge** an incredibly cool, hardware-focused program by Hack Club, I jumped right in and started designing!
+I started searching for a good HackClub program to make it in, after a while I found Forge- A really cool hardware only HC program and started working on my project.
 
 ## The PCB Design
 

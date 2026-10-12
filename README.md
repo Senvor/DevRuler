@@ -47,6 +47,6 @@ Here's the final manufacturing quote and preview from JLCPCB before it becomes r
 
 | Category | Item Name | Description | Delivery(estimated) | Vendor | Quantity | Total Price (USD) |
 |---|---|---|---|---|---:|---:|
-| PCB | DevRuler | The coolest Ruler OAT | 9.34$ | JLCPCB | 5 | 28.34$ |
+| PCB | DevRuler | The coolest Ruler OAT | 9.99$ | JLCPCB | 5 | 34.39$ |
 
 ---

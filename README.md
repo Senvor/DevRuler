@@ -4,7 +4,7 @@
 
 **A custom PCB ruler for developers to show off their identity without saying a word.**
 
-<img src="assests/Ruler.png" alt="DevRuler Preview" width="700" />
+<img src="assets/Ruler.png" alt="DevRuler Preview" width="700" />
 
 </div>
 
@@ -30,7 +30,7 @@ I started searching for a good HackClub program to make it in, after a while I f
 I designed the entire board from scratch using **KiCad**. 
 
 <div align="center">
-  <img src="assests/PCB.png" alt="PCB Design in KiCad" width="700" />
+  <img src="assets/PCB.png" alt="PCB Design in KiCad" width="700" />
   <br/>
   <i>A look at the raw KiCad layout.</i>
 </div>

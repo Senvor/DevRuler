@@ -4,6 +4,8 @@
 
 **A custom PCB ruler for developers to show off their identity without saying a word.**
 
+![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0B4TE3MN1G/Senvor/DevRuler)
+
 <img src="assets/Ruler.png" alt="DevRuler Preview" width="700" />
 
 </div>

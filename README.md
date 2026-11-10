@@ -53,23 +53,9 @@ Here's the final manufacturing quote and preview from JLCPCB before it became re
 
 The boards showed up from JLCPCB and they look great.
 
-<div align="center">
-  <img src="assets/unboxing.jpg" alt="Unboxing the DevRuler PCBs" width="600" />
-  <br/>
-  <i>Fresh out of the package.</i>
-</div>
-
-<br/>
-
 | Front | Back |
 |:---:|:---:|
 | <img src="assets/final-front.jpg" alt="Front of DevRuler" width="350" /> | <img src="assets/final-back.jpg" alt="Back of DevRuler" width="350" /> |
-
-<div align="center">
-  <img src="assets/in-use.jpg" alt="DevRuler next to a laptop" width="600" />
-  <br/>
-  <i>Sitting on my desk, measuring things it was never meant to measure.</i>
-</div>
 
 ## Bill Of Materials
 

@@ -4,30 +4,30 @@
 
 **A custom PCB ruler for developers to show off their identity without saying a word.**
 
-
+A ruler made out of a circuit board, with hardware footprints, everyday commands and SI unit conversions printed right on it.
 
 ![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0B4TE3MN1G/Senvor/DevRuler)
 
-
-
-<img src="assets/final-front.jpg" alt="DevRuler finished PCB" width="700" />
+<img src="assets/final-front.jpg" alt="DevRuler finished PCB" width="800" />
 
 </div>
 
 ---
 
-## What exactly is it?
+**Status:** Shipped, boards arrived from JLCPCB
+
+## What is it?
 
 It's an everyday-use ruler designed specifically for developers. I packed it with some cool stuff:
 
 - **Hardware footprints** for quick sizing and idk, all the footprints are random.
 - **Daily use commands** for the moments when your brain completely blanks on basic commands.
 - **Basic SI unit conversions** so you never have to Google them again.
-- Sweet branding from [Hack Club](https://hackclub.com/) and their awesome hardware program, [Forge](https://forge.hackclub.com/)!
+- **Sweet branding** from [Hack Club](https://hackclub.com/) and their awesome hardware program, [Forge](https://forge.hackclub.com/)!
 
-## Why I built it
+## Why I Built It
 
-I have always loved watching hardware videos on YouTube, and one day I found a video showcasing a PCB ruler. I was instantly obsessed with the idea and decided to make my own custom PCB Ruler.
+I have always loved watching hardware videos on YouTube, and one day I found a video showcasing a PCB ruler. I was instantly obsessed with the idea and decided to make my own custom PCB ruler.
 
 I started searching for a good Hack Club program to make it in, and after a while I found Forge, a really cool hardware-only HC program, and started working on my project.
 
@@ -36,7 +36,7 @@ I started searching for a good Hack Club program to make it in, and after a whil
 I designed the entire board from scratch using **KiCad**.
 
 <div align="center">
-  <img src="assets/PCB.png" alt="PCB Design in KiCad" width="700" />
+  <img src="assets/PCB.png" alt="PCB design in KiCad" width="700" />
   <br/>
   <i>A look at the raw KiCad layout.</i>
 </div>
@@ -46,10 +46,10 @@ I designed the entire board from scratch using **KiCad**.
 Here's the final manufacturing quote and preview from JLCPCB before it became reality:
 
 <div align="center">
-  <img width="1275" height="571" alt="JLCPCB quote" src="https://github.com/user-attachments/assets/8a448917-cd71-45b3-ac50-17768dd789c3" />
+  <img width="800" alt="JLCPCB quote" src="https://github.com/user-attachments/assets/8a448917-cd71-45b3-ac50-17768dd789c3" />
 </div>
 
-## It arrived!
+## It Arrived!
 
 The boards showed up from JLCPCB and they look great.
 
@@ -59,17 +59,27 @@ The boards showed up from JLCPCB and they look great.
 
 ## Bill Of Materials
 
-| Category | Item Name | Description | Vendor | Quantity | Unit Price (USD) | Total Price (USD) |
-|---|---|---|---|---:|---:|---:|
-| PCB | DevRuler | The coolest Ruler OAT | JLCPCB | 5 | $9.99 | $34.39 |
+Also in [BOM.csv](BOM.csv).
 
-## Repository
+| Category | Item Name | Description | Delivery (estimated) | Vendor | Quantity | Total Price (USD) |
+|---|---|---|---:|---|---:|---:|
+| PCB | DevRuler | The coolest Ruler OAT | $9.99 | JLCPCB | 5 | $34.39 |
 
-- `pcb/`: KiCad project files
-- `assets/`: images used in this README
-- `BOM.csv`: bill of materials
-- `output files/`: fabrication outputs
+## Tech Stack
+
+- **KiCad** - schematic and PCB design
+- **JLCPCB** - PCB fabrication
+
+## Project Structure
+
+```
+DevRuler/
+├── pcb/              # KiCad project, schematic and PCB
+├── output files/     # fabrication outputs (DevRuler.zip)
+├── assets/           # README images
+└── BOM.csv           # bill of materials
+```
 
 ## License
 
-MIT, see [LICENSE](LICENSE).
+This project is licensed under the [MIT License](LICENSE). You're free to use, modify, and share it, as long as the original copyright notice is kept.

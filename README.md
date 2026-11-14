@@ -14,8 +14,6 @@ A ruler made out of a circuit board, with hardware footprints, everyday commands
 
 ---
 
-**Status:** Shipped, boards arrived from JLCPCB
-
 ## What is it?
 
 It's an everyday-use ruler designed specifically for developers. I packed it with some cool stuff:

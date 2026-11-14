@@ -63,7 +63,7 @@ Also in [BOM.csv](BOM.csv).
 
 | Category | Item Name | Description | Delivery (estimated) | Vendor | Quantity | Total Price (USD) |
 |---|---|---|---:|---|---:|---:|
-| PCB | DevRuler | The coolest Ruler OAT | $9.99 | JLCPCB | 5 | $34.39 |
+| PCB | DevRuler | The coolest Ruler OAT | $9.92 | JLCPCB | 5 | $28.32 |
 
 ## Tech Stack
 

@@ -8,7 +8,8 @@ A ruler made out of a circuit board, with hardware footprints, everyday commands
 
 ![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0B4TE3MN1G/Senvor/DevRuler)
 
-<img src="assets/final-front.jpg" alt="DevRuler finished PCB" width="800" />
+<img src="assets/render-front.jpg" alt="DevRuler 3D render, front" width="800" />
+<img src="assets/render-back.jpg" alt="DevRuler 3D render, back" width="800" />
 
 </div>
 
